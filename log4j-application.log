@@ -1,0 +1,51 @@
+2023-08-22 01:58:23,305  INFO [main] User Login Page:75 - User Name entered with value - sql@yopmail.com	
+2023-08-22 01:58:23,680  INFO [main] User Login Page:75 - Password entered with value - @Password1
+2023-08-22 01:58:24,018  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2023-08-22 01:58:24,866  INFO [main] User Login Page:113 - Login clicked 
+2023-08-22 01:58:51,486  INFO [main] User Login Page:113 - Full Menu clicked 
+2023-08-22 01:58:53,912  INFO [main] User Login Page:113 - Company Setup Link clicked 
+2023-08-22 01:59:03,886  INFO [main] User Login Page:113 -  Company Setup Page clicked 
+2023-08-22 01:59:07,837  INFO [main] User Login Page:113 - AddButton clicked 
+2023-08-22 01:59:10,185  INFO [main] User Login Page:269 - Save Button click by JS
+2023-08-22 01:59:10,486  INFO [main] User Login Page:284 -  Text displayed is  - Title is required
+2023-08-22 01:59:10,487  INFO [main] User Login Page:137 - Error Message is successfully displayed in Title field as Title is required
+2023-08-22 01:59:10,549  INFO [main] User Login Page:284 -  Text displayed is  - Message is required
+2023-08-22 01:59:10,550  INFO [main] User Login Page:153 - Error Message is successfully displayed in Message field as Message is required
+2023-08-22 01:59:10,897  INFO [main] User Login Page:113 - Open User guide clicked 
+2023-08-22 01:59:11,245  INFO [main] User Login Page:113 - Close User guide clicked 
+2023-08-22 01:59:24,100  INFO [main] User Login Page:269 - Logout menu click by JS
+2023-08-22 01:59:28,644  INFO [main] User Login Page:269 - Logout click by JS
+2023-08-22 01:59:43,799  INFO [main] User Login Page:75 - User Name entered with value - sql@yopmail.com	
+2023-08-22 01:59:44,252  INFO [main] User Login Page:75 - Password entered with value - @Password1
+2023-08-22 01:59:44,621  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2023-08-22 01:59:45,018  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2023-08-22 01:59:45,725  INFO [main] User Login Page:113 - Login clicked 
+2023-08-22 01:59:56,336  INFO [main] User Login Page:113 - Full Menu clicked 
+2023-08-22 01:59:58,809  INFO [main] User Login Page:113 - Company Setup Link clicked 
+2023-08-22 02:00:08,772  INFO [main] User Login Page:113 -  Company Setup Page clicked 
+2023-08-22 02:00:11,837  INFO [main] User Login Page:113 - AddButton clicked 
+2023-08-22 02:00:12,798  INFO [main] User Login Page:75 - Announcement Title entered with value - TitleName230822015911
+2023-08-22 02:00:15,018  INFO [main] User Login Page:269 - Enable the Acknowledgement Required Field Toggle Button click by JS
+2023-08-22 02:00:15,713  INFO [main] User Login Page:439 - Attachment uploaded with value - C:\Users\aanand\eclipse-workspace\jenkins_talygen_companysetup\src\main\resources\testfiles\55565.jpg
+2023-08-22 02:00:16,635  INFO [main] User Login Page:75 - Description entered with value - Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large.
+2023-08-22 02:00:23,943  INFO [main] User Login Page:269 - Save Button click by JS
+2023-08-22 02:00:24,460  INFO [main] User Login Page:113 -  Close Success Message clicked 
+2023-08-22 02:00:25,875  INFO [main] User Login Page:113 - clickCheckBox clicked 
+2023-08-22 02:00:25,943  INFO [main] User Login Page:284 -  Text displayed is  - TitleName230822015911
+2023-08-22 02:00:28,356  INFO [main] User Login Page:113 - Click Inactive Button clicked 
+2023-08-22 02:00:29,702  INFO [main] User Login Page:113 - Confirmation popup clicked 
+2023-08-22 02:00:30,944  INFO [main] User Login Page:113 -  Close Success Message clicked 
+2023-08-22 02:00:31,576  INFO [main] User Login Page:113 - clickCheckBox clicked 
+2023-08-22 02:00:31,625  INFO [main] User Login Page:284 -  Text displayed is  - TitleName230822015911
+2023-08-22 02:00:34,086  INFO [main] User Login Page:113 - Click Active Button clicked 
+2023-08-22 02:00:37,322  INFO [main] User Login Page:113 - Confirmation popup clicked 
+2023-08-22 02:00:38,394  INFO [main] User Login Page:113 -  Close Success Message clicked 
+2023-08-22 02:00:39,154  INFO [main] User Login Page:75 - Input Title Name in Search field entered with value - TitleName230822015911
+2023-08-22 02:00:39,581  INFO [main] User Login Page:113 - Click on search Button clicked 
+2023-08-22 02:00:39,642  INFO [main] User Login Page:284 -  Text displayed is  - TitleName230822015911
+2023-08-22 02:00:39,643  INFO [main] User Login Page:198 - After search it shows record which we have searched TitleName230822015911
+2023-08-22 02:00:45,370  INFO [main] User Login Page:113 - clickCheckBox clicked 
+2023-08-22 02:00:45,422  INFO [main] User Login Page:284 -  Text displayed is  - TitleName230822015911
+2023-08-22 02:00:52,278  INFO [main] User Login Page:113 - Delete Announcmenet clicked 
+2023-08-22 02:00:53,375  INFO [main] User Login Page:113 - Confirmation popup clicked 
+2023-08-22 02:00:54,530  INFO [main] User Login Page:113 -  Close Success Message clicked 
