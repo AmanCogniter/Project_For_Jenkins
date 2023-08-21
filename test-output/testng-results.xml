@@ -1,87 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-22T01:57:40 IST" name="Default suite" finished-at="2023-08-22T02:00:55 IST" duration-ms="195256">
+  <suite started-at="2023-08-22T04:34:00 IST" name="Default suite" finished-at="2023-08-22T04:35:21 IST" duration-ms="80864">
     <groups>
     </groups>
-    <test started-at="2023-08-22T01:57:40 IST" name="Default test" finished-at="2023-08-22T02:00:55 IST" duration-ms="195256">
-      <class name="testcases.Announcement">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.Announcement@9353778]" started-at="2023-08-22T01:57:40 IST" name="setUp" finished-at="2023-08-22T01:58:18 IST" duration-ms="38231" status="PASS">
+    <test started-at="2023-08-22T04:34:00 IST" name="Default test" finished-at="2023-08-22T04:35:21 IST" duration-ms="80864">
+      <class name="testcases.Break">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.Break@6e171cd7]" started-at="2023-08-22T04:34:00 IST" name="setUp" finished-at="2023-08-22T04:34:40 IST" duration-ms="39596" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.Announcement@9353778]" started-at="2023-08-22T01:58:18 IST" name="beforeMethod" finished-at="2023-08-22T01:58:20 IST" duration-ms="2026" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.Break@6e171cd7]" started-at="2023-08-22T04:34:40 IST" name="beforeMethod" finished-at="2023-08-22T04:34:40 IST" duration-ms="191" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testcases.Announcement.ValidationCheck()]]>
+                <![CDATA[public void testcases.Break.AddBreakValidationCheck()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="ValidationCheck()[pri:1, instance:testcases.Announcement@9353778]" started-at="2023-08-22T01:58:20 IST" name="ValidationCheck" finished-at="2023-08-22T01:59:11 IST" duration-ms="50580" status="PASS">
+        <test-method signature="AddBreakValidationCheck()[pri:1, instance:testcases.Break@6e171cd7]" started-at="2023-08-22T04:34:40 IST" name="AddBreakValidationCheck" finished-at="2023-08-22T04:35:20 IST" duration-ms="40112" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- ValidationCheck -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.Announcement@9353778]" started-at="2023-08-22T01:59:11 IST" name="reportWrapUp" finished-at="2023-08-22T01:59:11 IST" duration-ms="6" status="PASS">
+        </test-method> <!-- AddBreakValidationCheck -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.Break@6e171cd7]" started-at="2023-08-22T04:35:20 IST" name="reportWrapUp" finished-at="2023-08-22T04:35:20 IST" duration-ms="6" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=ValidationCheck status=SUCCESS method=Announcement.ValidationCheck()[pri:1, instance:testcases.Announcement@9353778] output={null}]]]>
+                <![CDATA[[TestResult name=AddBreakValidationCheck status=SUCCESS method=Break.AddBreakValidationCheck()[pri:1, instance:testcases.Break@6e171cd7] output={null}]]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[public void testcases.Announcement.ValidationCheck()]]>
+                <![CDATA[public void testcases.Break.AddBreakValidationCheck()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.Announcement@9353778]" started-at="2023-08-22T01:59:11 IST" name="beforeMethod" finished-at="2023-08-22T01:59:11 IST" duration-ms="0" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testcases.Announcement.AddSearchDeleteAnnouncement()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="AddSearchDeleteAnnouncement()[pri:2, instance:testcases.Announcement@9353778]" started-at="2023-08-22T01:59:11 IST" name="AddSearchDeleteAnnouncement" finished-at="2023-08-22T02:00:54 IST" duration-ms="103219" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- AddSearchDeleteAnnouncement -->
-        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.Announcement@9353778]" started-at="2023-08-22T02:00:54 IST" name="reportWrapUp" finished-at="2023-08-22T02:00:54 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=AddSearchDeleteAnnouncement status=SUCCESS method=Announcement.AddSearchDeleteAnnouncement()[pri:2, instance:testcases.Announcement@9353778] output={null}]]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[public void testcases.Announcement.AddSearchDeleteAnnouncement()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- reportWrapUp -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.Announcement@9353778]" started-at="2023-08-22T02:00:54 IST" name="closeBrowser" finished-at="2023-08-22T02:00:55 IST" duration-ms="1020" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.Break@6e171cd7]" started-at="2023-08-22T04:35:20 IST" name="closeBrowser" finished-at="2023-08-22T04:35:21 IST" duration-ms="587" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Announcement@9353778]" started-at="2023-08-22T02:00:56 IST" name="close" finished-at="2023-08-22T02:00:59 IST" duration-ms="2835" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Break@6e171cd7]" started-at="2023-08-22T04:35:21 IST" name="close" finished-at="2023-08-22T04:35:22 IST" duration-ms="750" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-      </class> <!-- testcases.Announcement -->
+      </class> <!-- testcases.Break -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

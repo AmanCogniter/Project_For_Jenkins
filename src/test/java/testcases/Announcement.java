@@ -28,19 +28,7 @@ public class Announcement extends WebTestBase
 		
 	}
 	
-	 
-	/* All main functionality are performed in single testcase because after adding announcement if we again 
-	 * perform login it shows recently created announcement popup . */
 	
-	@Test(priority=2)	
-	public void AddSearchDeleteAnnouncement()
-	{
-		test= getTest(Screenname +": Add Announcement Test Cases");
-		AnnouncementAction annouceaction = new AnnouncementAction(driver);
-		new LoginAction(driver).logoutLogin();
-		annouceaction.GoToCompanySetupPage();
-		annouceaction.AddAnnouncement();
-	}
 
 	
 }

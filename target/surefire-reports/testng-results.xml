@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-22T04:28:23 IST" name="Suite" finished-at="2023-08-22T04:30:52 IST" duration-ms="148858">
+    <groups>
+    </groups>
+    <test started-at="2023-08-22T04:28:23 IST" name="Test" finished-at="2023-08-22T04:30:52 IST" duration-ms="148858">
+      <class name="utils.WebTestBase">
+        <test-method is-config="true" signature="close()[pri:0, instance:utils.WebTestBase@72f926e6]" started-at="2023-08-22T04:30:52 IST" name="close" finished-at="2023-08-22T04:30:53 IST" duration-ms="905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- utils.WebTestBase -->
+      <class name="testcases.Announcement">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.Announcement@20deea7f]" started-at="2023-08-22T04:28:23 IST" name="setUp" finished-at="2023-08-22T04:28:38 IST" duration-ms="15368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.Announcement@20deea7f]" started-at="2023-08-22T04:28:38 IST" name="beforeMethod" finished-at="2023-08-22T04:28:39 IST" duration-ms="151" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.Announcement.ValidationCheck()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ValidationCheck()[pri:1, instance:testcases.Announcement@20deea7f]" started-at="2023-08-22T04:28:39 IST" name="ValidationCheck" finished-at="2023-08-22T04:29:23 IST" duration-ms="44865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidationCheck -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.Announcement@20deea7f]" started-at="2023-08-22T04:29:23 IST" name="reportWrapUp" finished-at="2023-08-22T04:29:23 IST" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidationCheck status=SUCCESS method=Announcement.ValidationCheck()[pri:1, instance:testcases.Announcement@20deea7f] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.Announcement.ValidationCheck()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.Announcement@20deea7f]" started-at="2023-08-22T04:29:23 IST" name="beforeMethod" finished-at="2023-08-22T04:29:23 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.Announcement.AddSearchDeleteAnnouncement()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="AddSearchDeleteAnnouncement()[pri:2, instance:testcases.Announcement@20deea7f]" started-at="2023-08-22T04:29:23 IST" name="AddSearchDeleteAnnouncement" finished-at="2023-08-22T04:30:51 IST" duration-ms="87565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddSearchDeleteAnnouncement -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.Announcement@20deea7f]" started-at="2023-08-22T04:30:51 IST" name="reportWrapUp" finished-at="2023-08-22T04:30:51 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AddSearchDeleteAnnouncement status=SUCCESS method=Announcement.AddSearchDeleteAnnouncement()[pri:2, instance:testcases.Announcement@20deea7f] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.Announcement.AddSearchDeleteAnnouncement()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.Announcement@20deea7f]" started-at="2023-08-22T04:30:51 IST" name="closeBrowser" finished-at="2023-08-22T04:30:52 IST" duration-ms="757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testcases.Announcement -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
